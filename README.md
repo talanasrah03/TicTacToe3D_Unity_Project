@@ -1,4 +1,4 @@
-# 🎮 Morpion 3D – Unity Project
+# 🎮 Tic Tac Toe 3D – Unity Project
 
 A 3D Tic-Tac-Toe (Morpion 3D) game built with **Unity (C#)**.  
 Developed as part of my *Licence 2 Informatique et Applications* coursework,  
